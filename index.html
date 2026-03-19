@@ -791,6 +791,7 @@ async function loadScholarData() {
       if (titleVenue.includes('food') || titleVenue.includes('coffee') || titleVenue.includes('bakery')) tags.push('food');
       if (titleVenue.includes('bioprocess') || titleVenue.includes('fermentation') || titleVenue.includes('lactic')) tags.push('bioprocess');
       if (titleVenue.includes('optimization') || titleVenue.includes('scheduling') || titleVenue.includes('milp')) tags.push('optimization');
+      if (titleVenue.includes('data') || titleVenue.includes('AdaptFerm') || titleVenue.includes('milp')) tags.push('data');
 
       // Highlight author name
       const authors = pub.authors.replace(/Majhar Babor/g, '<strong>Majhar Babor</strong>');
