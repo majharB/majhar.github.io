@@ -24,7 +24,7 @@
       "venue": "NeurIPS, AI4Science workshop",
       "year": "2025",
       "citation": 0,
-      "url": "https://arxiv.org/abs/2512.13130"
+      "url": "https://doi.org/10.48550/arXiv.2512.13130"
     },
      {
       "title": "Convergence of Digital Twins and food drying technology: How to bring the next generation of dryers to life!?",
@@ -32,7 +32,7 @@
       "venue": "Journal of Food Engineering",
       "year": "2025",
       "citation": 7,
-      "url": "https://www.sciencedirect.com/science/article/pii/S026087742500305X"
+      "url": "https://doi.org/10.1016/j.jfoodeng.2025.112770"
     },
  {
       "title": "Digital model of biochemical reactions in lactic acid bacterial fermentation of simple glucose and biowaste substrates",
@@ -40,7 +40,7 @@
       "venue": "Heliyon",
       "year": "2024",
       "citation": 7,
-      "url": "https://www.cell.com/heliyon/fulltext/S2405-8440(24)14822-0"
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e38791"
     },
     {
       "title": "A mathematical model-based evaluation of yeast extract’s effects on microbial growth and substrate consumption for lactic acid production by Bacillus coagulans",
@@ -48,7 +48,7 @@
       "venue": "Process Biochemistry",
       "year": "2024",
       "citation": 11,
-      "url": "https://www.sciencedirect.com/science/article/pii/S135951132400237X"
+      "url": "https://doi.org/10.1016/j.procbio.2024.07.017"
     },
     {
       "title": "Chemometrics using near-infrared spectra for the quantification of robusta coffee and chicory added as adulterants in roasted arabica coffee",
@@ -56,7 +56,7 @@
       "venue": " Journal of Food Measurement and Characterization",
       "year": "2024",
       "citation": 17,
-      "url": "https://link.springer.com/article/10.1007/s11694-023-02188-w"
+      "url": "https://doi.org/10.1007/s11694-023-02188-w"
     },
     {
       "title": "Monitoring a Coffee Roasting Process Based on Near-Infrared and Raman Spectroscopy Coupled With Chemometrics",
@@ -64,7 +64,7 @@
       "venue": "Journal of Chemometrics",
       "year": "2024",
       "citation": 7,
-      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/cem.3638"
+      "url": "https://doi.org/10.1002/cem.3638"
     },
     {
       "title": "Online monitoring of the growth of probiotic bacteria and metabolites in the fermentation of a teff substrate using model-based calibration of 2D fluorescence spectra",
@@ -72,7 +72,7 @@
       "venue": "Microorganisms",
       "year": "2023",
       "citation": 4,
-      "url": "https://www.mdpi.com/2076-2607/11/4/1032"
+      "url": "https://doi.org/10.3390/microorganisms11041032"
     },
     {
       "title": "Online process state estimation for Hansenula Polymorpha cultivation with 2D fluorescence spectra-based Chemometric model calibrated from a theoretical model in place of offline measurements",
@@ -80,7 +80,7 @@
       "venue": "Fermentation",
       "year": "2023",
       "citation": 4,
-      "url": "https://www.mdpi.com/2311-5637/9/2/95"
+      "url": "https://doi.org/10.3390/fermentation9020095"
     },
         {
       "title": "Modeling and optimization of bakery production scheduling to minimize makespan and oven idle time",
@@ -88,7 +88,7 @@
       "venue": "Scientific Reports",
       "year": "2023",
       "citation": 14,
-      "url": "https://www.nature.com/articles/s41598-022-26866-9"
+      "url": "https://doi.org/10.1038/s41598-022-26866-9"
     },
     {
       "title": "Application of nature-inspired multi-objective optimization algorithms to improve the bakery production efficiency",
@@ -96,7 +96,7 @@
       "venue": "Engineering Proceedings",
       "year": "2022",
       "citation": 3,
-      "url": "https://www.mdpi.com/2673-4591/19/1/31"
+      "url": "https://doi.org/10.3390/ECP2022-12630"
     },
     {
       "title": "Application of non-dominated sorting genetic algorithm (NSGA-II) to increase the efficiency of bakery production: a case study",
@@ -104,15 +104,7 @@
       "venue": "Processes",
       "year": "2022",
       "citation": 21,
-      "url": "https://www.mdpi.com/2227-9717/10/8/1623"
-    },
-    {
-      "title": "Traceability of sweeteners in soy yogurt using linear discriminant analysis of physicochemical and sensory parameters",
-      "authors": "Md Rahmatuzzaman Rana and Majharulislam Babor and Ashfak Ahmed Sabuz",
-      "venue": "Journal of Agriculture and Food Research",
-      "year": "2021",
-      "citation": 37,
-      "url": "https://www.sciencedirect.com/science/article/pii/S2666154321000570"
+      "url": "https://doi.org/10.3390/pr10081623"
     },
     {
       "title": "Optimization of No-Wait Flowshop Scheduling Problem in Bakery Production with Modified PSO, NEH and SA",
@@ -120,7 +112,15 @@
       "venue": "Processes",
       "year": "2021",
       "citation": 23,
-      "url": "https://www.mdpi.com/2227-9717/9/11/2044"
+      "url": "https://doi.org/10.3390/pr9112044"
+    },
+     {
+      "title": "Traceability of sweeteners in soy yogurt using linear discriminant analysis of physicochemical and sensory parameters",
+      "authors": "Md Rahmatuzzaman Rana and Majharulislam Babor and Ashfak Ahmed Sabuz",
+      "venue": "Journal of Agriculture and Food Research",
+      "year": "2021",
+      "citation": 37,
+      "url": "https://doi.org/10.1016/j.jafr.2021.100155"
     },
     {
       "title": "Model-based calibration of a gas sensor array for on-line monitoring of ethanol concentration in Saccharomyces cerevisiae batch cultivation",
@@ -128,7 +128,7 @@
       "venue": "Biosystems Engineering",
       "year": "2020",
       "citation": 27,
-      "url": "https://www.sciencedirect.com/science/article/pii/S1537511020302166"
+      "url": "https://doi.org/10.1016/j.biosystemseng.2020.08.004"
     },
     {
       "title": "Application of nature-inspired optimization algorithms to improve the production efficiency of small and medium-sized bakeries",
