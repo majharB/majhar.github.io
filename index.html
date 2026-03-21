@@ -179,7 +179,13 @@
   }
 
   /* ── ABOUT ── */
-  .about-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:4.5rem;align-items:center;}
+  .about-grid{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  text-align:center;
+  gap:2rem;
+}
   .about-text p{
     color:var(--muted);line-height:1.9;margin-bottom:1.1rem;font-size:.97rem;
   }
@@ -462,6 +468,7 @@
   </div>
 </div>
 
+  
 <!-- ABOUT -->
 <section id="about">
   <div class="reveal">
@@ -475,10 +482,7 @@
       I am a postdoctoral researcher in data science for the bioeconomy at the Leibniz Institute for Agricultural Engineering and Bioeconomy (ATB) in Potsdam, Germany. My work connects artificial intelligence with bioprocess engineering and sustainable production systems.
     </p>
     <p>
-      My research focuses on food and bioprocess analytics, real-time monitoring, and decision-support methods, using machine learning and data-driven modeling to address practical challenges in industrial and biological systems.
-    </p>
-    <p>
-      I am interested in advancing efficient and responsible resource use through data-informed approaches. With <span id="stat-pubs">many</span> publications and <span id="stat-cites">hundreds of</span> citations, my work contributes to ongoing developments in the bioeconomy.
+      My research focuses on food and bioprocess analytics, real-time monitoring, and decision-support methods, using machine learning and data-driven modeling to address practical challenges in industrial  biosystems.
     </p>
 </section>
 
